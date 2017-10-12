@@ -1,4 +1,4 @@
-FROM ansible/awx_web:1.0.1.10
+FROM ansible/awx_web:1.0.1.14
 
 USER root
 
